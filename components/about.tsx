@@ -7,13 +7,13 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-foreground/80 leading-relaxed">
-              I'm a recent graduate in Computer Science from Sekolah Tinggi Teknologi Payakumbuh with a strong passion for web development and data analysis. My journey spans from foundational programming to full-stack development across multiple frameworks.
+              I'm Rizki Ramadhani, a fresh Computer Science graduate from Sekolah Tinggi Teknologi Payakumbuh. Although I'm just starting my professional journey, I've built a strong foundation in full-stack development through coursework, internships, and personal projects.
             </p>
             <p className="text-foreground/80 leading-relaxed">
-              Currently, I'm focused on building scalable web applications with modern technologies. I've worked on diverse projects ranging from Android applications to AI chatbots, each contributing to my growth as a developer.
+              I enjoy translating real-world problems into practical web solutions. My focus is on modern technologies such as Next.js, React, and Tailwind CSS, and I'm actively strengthening my backend skills in Node.js, Go, and database design.
             </p>
             <p className="text-foreground/80 leading-relaxed">
-              Beyond coding, I'm interested in problem-solving, system design, and mentoring junior developers. I believe in continuous learning and staying updated with industry trends.
+              I'm eager to take on entry-level opportunities where I can learn from experienced engineers, contribute to agile teams, and continue growing both my technical and soft skills. Collaboration, curiosity, and resilience are the values I bring to every project.
             </p>
             
             <div className="pt-4">
